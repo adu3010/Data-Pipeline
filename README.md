@@ -34,4 +34,20 @@ This project is designed to help **data analysts, scientists, and ML engineers**
   - `generate_final_report()`
 
 ---
+## 🛠 Installation
 
+Clone the repo and install requirements:
+
+```bash
+git clone https://github.com/yourusername/universal-data-pipeline.git
+cd universal-data-pipeline
+pip install -r requirements.txt
+
+Requirements
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+graphviz
+ (optional, for flowchart generation)
