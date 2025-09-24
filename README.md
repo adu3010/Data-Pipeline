@@ -43,6 +43,7 @@ This project is designed to help **data analysts, scientists, and ML engineers**
 🧩 Feature-engineered dataset (encoded, scaled, derived features)
 
 📝 Final report (text/plots combined)
+
 ---
 ## 🛠 Installation
 
