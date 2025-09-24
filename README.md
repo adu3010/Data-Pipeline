@@ -29,10 +29,20 @@ This project is designed to help **data analysts, scientists, and ML engineers**
   - `create_derived_features()`  
   - `remove_correlated_features()`  
   - `handle_outliers()`
-
-- **Final Report**  
   - `generate_final_report()`
+ 
+  - - **Final Report**  
+📖 Example Output
 
+✅ Cleaned & transformed dataset
+
+📊 EDA summaries (correlations, distributions, missing values)
+
+📈 Visualizations (dashboards, plots, heatmaps)
+
+🧩 Feature-engineered dataset (encoded, scaled, derived features)
+
+📝 Final report (text/plots combined)
 ---
 ## 🛠 Installation
 
@@ -50,4 +60,7 @@ matplotlib
 seaborn
 scikit-learn
 graphviz
- (optional, for flowchart generation)
+ (optional, for flowchart generation)```
+
+
+
